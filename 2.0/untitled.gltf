@@ -78,9 +78,9 @@
     ],
     "images" : [
         {
-            "mimeType" : "image/png",
+            "mimeType" : "image/jpg",
             "name" : "angel_statue",
-            "uri" : "angel_statue.png"
+            "uri" : "angel_statue.jpg"
         }
     ],
     "accessors" : [
