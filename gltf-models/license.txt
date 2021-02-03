@@ -1,0 +1,11 @@
+Model Information:
+* title:	Angel statue
+* source:	https://sketchfab.com/3d-models/angel-statue-6eca16ad16594837838260b7f898341f
+* author:	RealMichalo (https://sketchfab.com/RealMichalo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Angel statue" (https://sketchfab.com/3d-models/angel-statue-6eca16ad16594837838260b7f898341f) by RealMichalo (https://sketchfab.com/RealMichalo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
