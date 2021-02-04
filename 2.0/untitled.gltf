@@ -78,7 +78,7 @@
     ],
     "images" : [
         {
-            "mimeType" : "image/jpg",
+            "mimeType" : "image/jpeg",
             "name" : "angel_statue",
             "uri" : "angel_statue.jpg"
         }
